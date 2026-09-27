@@ -26,15 +26,6 @@ Currently at **Thoughtworks**, architecting data platforms for global retail and
 | **Data Quality & Governance** | Validation frameworks, contract-driven pipelines, observability across heterogeneous sources |
 | **Cloud-Native Delivery** | Platform design on AWS, Azure and GCP; infrastructure as code; containerised workloads |
 
-### Selected Engagements
-
-| Period | Client | Engagement | Architecture |
-|---|---|---|---|
-| 2025 | Otto GmbH | Assortment Analytics Platform | Data Vault on BigQuery, cross-warehouse transfer to Snowflake, agentic AI over assortment data |
-| 2024–25 | JCPenney | Enterprise Data Platform Modernization | Great Expectations–based quality framework spanning Spark, Kafka and Oracle workloads |
-| 2019–21 | Ooredoo Qatar | Notification Gateway & DWH | Pub-sub architecture on Kafka Streams over a managed Cloudera cluster |
-| 2016–19 | — | Digimate | SMS operator platform serving 1,500+ B2B and B2C customers |
-
 ### Technology
 
 <div align="center">
