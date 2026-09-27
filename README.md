@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=Harisankar%20Sivankutty&fontSize=42&fontColor=e6edf3&fontAlignY=42&desc=Data%20%26%20AI%20Architect%20%C2%B7%20Senior%20Consultant%2C%20Thoughtworks&descSize=16&descAlignY=68&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=Harisankar%20Sivankutty&fontSize=42&fontColor=e6edf3&fontAlignY=42&desc=Data%20and%20AI%20Architect%20%C2%B7%20Senior%20Consultant%2C%20Thoughtworks&descSize=16&descAlignY=68&descAlign=50" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefox&logoColor=00F5D4)](https://harisankarsivankutty.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjMDBGNUQ0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/harisankarsivankutty/)
