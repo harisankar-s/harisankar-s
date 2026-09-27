@@ -13,7 +13,7 @@
 
 ---
 
-I design enterprise data platforms and the GenAI systems that run on top of them. Over 10+ years across telecom, IoT, agritech, retail and e-commerce, my work has centred on one problem: turning fragmented operational data into governed, reliable foundations that analytics and AI can be trusted on.
+I design enterprise data platforms and the Agentic systems that run on top of them. Over 10+ years across telecom, IoT, agritech, retail and e-commerce, my work has centred on one problem: turning fragmented operational data into governed, reliable foundations that analytics and AI can be trusted on.
 
 Currently at **Thoughtworks**, architecting data platforms for global retail and e-commerce clients. Based in Hyderabad / Bengaluru. Open to remote engagements and advisory work.
 
