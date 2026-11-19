@@ -43,6 +43,8 @@ Currently at **Thoughtworks**, architecting data platforms for global retail and
 
 ### Certifications
 
+- Anthropic — Claude Certified Architect, Professional (2026)
+- Anthropic — Claude Certified Architect, Foundations (2026)
 - Google Cloud — Professional Data Engineer (2025)
 - AWS — Solutions Architect Associate (2022)
 - Red Hat — Certified Engineer (2016)
